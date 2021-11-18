@@ -1,2 +1,2 @@
-# First tech degree project
+# First Tech Degree Project
  My first tech degree project
